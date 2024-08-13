@@ -1,4 +1,4 @@
-#
+# Анастасия Куличкина, 20-я когорта — Финальный проект. Инженер по тестированию плюс
 import requests
 import configuration
 import data
